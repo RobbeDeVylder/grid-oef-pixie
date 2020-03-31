@@ -84,7 +84,7 @@ ul li {
     margin: 0 auto;
 }
 
-.topHeader {
+.Headertop {
     padding: 3rem 0;
 }
 
@@ -145,18 +145,18 @@ ul li {
     margin: 0 20px;
 }
 
-.Featured-items--title {
+.FeaturedItemsTitle {
     margin: 0 0 3rem;
 }
 
-.article--box {
+.box {
     border: 1px solid #eee;
     border-radius: 5px;
     padding: 20px;
     margin-bottom: 2rem;
 }
 
-.article--box img {
+.box img {
     width: 100%;
 }
 
@@ -180,14 +180,14 @@ h5 {
     color: #3a8bcd;
 }
 
-.title-decoration {
+.titleDeco {
     width: 30px;
     height: 5px;
     background-color:#3a8bcd;
     margin: 1rem 0;
 }
 
-.title-decoration-center {
+.titleDecoCenter {
     width: 30px;
     height: 5px;
     margin: 1rem auto;
@@ -208,7 +208,7 @@ p {
     border-radius: 5px;
 }
 
-.button--white {
+.buttonWhite {
     width: 100%;
     height: fit-content;
     background-color: white;
@@ -232,55 +232,51 @@ input#email[type=text] {
     margin: 0 1rem;
 }
 
-input#email::placeholder {
-    color: white;
-}
-
-.u-flex-left {
+.flexL {
     display: flex;
     justify-content: left;
 }
 
-.u-flex {
+.flex {
     display: flex;
     justify-content: center;
 }
 
-.u-flex-space-between {
+.flexSB {
     display: flex;
     justify-content: space-between;
 }
 
-.u-center {
+.center {
    text-align: center;
    margin: 0 auto;
 }
 
-.u-bg-blue {
+.bgBlue {
     background-color: #3a8bcd;
 }
 
-.u-bg-white {
+.bgWhite {
     background-color: white;
 }
 
-.u-color-blue {
+.colorBlue {
     color:  #3a8bcd;
 }
 
-.u-color-gray {
+.colorGray {
     color: rgb(40, 40, 40);
 }
 
-.u-color-white {
+.colorWhite {
     color: white;
 }
 
-.u-link {
+.link {
     font-weight: bold;
 }
 
-.u-spacer {
+.spacer {
     border-bottom: 1px solid #eee;
     margin: 1rem auto;
 }
